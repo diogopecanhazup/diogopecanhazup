@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **diogopecanhazup/diogopecanhazup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### NOW
+
+- ✨ Tech lead;
+
+##### BIO
+
+- 🏢 I'm currently working at Comunidade de Veículos on Itaú as Tech Lead
+- ⚙️ I use daily: `.kt`, `.java`, `.net`, `.js`
+- 💅 Designed: [mundoaquario](http://www.mundoaquario.com.br)
+- 🌱 Trying have more time to lear all about **AWS**, ***Leadership*** and cool things (like 
+- ⚡️ Fun fact: I'm a huge fan of Lord of the Rings and Batman, 
+
+##### MY BADGES
 <img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' />
