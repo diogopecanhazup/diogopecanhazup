@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working at Comunidade de Veículos on Itaú as Tech Lead
 - ⚙️ I use daily: `.kt`, `.java`, `.net`, `.js`
 - 💅 Designed: [mundoaquario](http://www.mundoaquario.com.br)
-- 🌱 Trying have more time to lear all about **AWS**, ***Leadership*** and cool things (like 
+- 🌱 Trying have more time to lear all about **AWS**, ***Leadership*** and cool things (like woodworking, home automation and fish tanks)
 - ⚡️ Fun fact: I'm a huge fan of Lord of the Rings and Batman, 
 
 ##### MY BADGES
